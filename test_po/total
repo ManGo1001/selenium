@@ -1,0 +1,5 @@
+-BasePage：通用的父类Page，完成driver的传递和共用的方法
+-ProfilePage：具体的页面所提供的的方法封装
+-Contactpage：具体的页面所提供的的方法封装
+-TestContact：正常的业务测试用例
+-WeworkPage：封装了driver的初始化过程
